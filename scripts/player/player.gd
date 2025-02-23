@@ -29,7 +29,7 @@ var movement: Vector3
 var vert_velocity: Vector3
 var movement_speed: int
 var angular_acceleration: int
-var acceleration: int
+var acceleration: float
 var just_hit: bool
 
 @onready var camroot_horiz = get_node("camera_root/horizontal_mov")
@@ -45,7 +45,6 @@ func _input(event: InputEvent) -> void:
 		
 func _physics_process(delta: float) -> void:
 	var on_floor = is_on_floor()
-	print(on_floor)
 	if !is_dying:
 		if !on_floor:
 			vert_velocity += Vector3.DOWN*gravity*2*delta
@@ -84,11 +83,10 @@ func _physics_process(delta: float) -> void:
 												delta*angular_acceleration)
 		
 		if is_attacking:
-			horiz_velocity = horiz_velocity.lerp(direction.normalized()*0.1, acceleration)
+			horiz_velocity = horiz_velocity.lerp(direction.normalized()*0.1, acceleration*delta)
 		else:
-			horiz_velocity = horiz_velocity.lerp(direction.normalized()*movement_speed, acceleration)
+			horiz_velocity = horiz_velocity.lerp(direction.normalized()*movement_speed, acceleration*delta)
 		velocity.z = horiz_velocity.z + vert_velocity.z
 		velocity.x = horiz_velocity.x + vert_velocity.x
-		print(vert_velocity.y)
 		velocity.y = vert_velocity.y
 		move_and_slide()
