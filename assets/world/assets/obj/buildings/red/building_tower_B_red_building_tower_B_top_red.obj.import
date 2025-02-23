@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clgyrmgucws1a"
+path="res://.godot/imported/building_tower_B_red_building_tower_B_top_red.obj-6d4bad9e790ae8742a18beb881352c12.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_tower_B_red_building_tower_B_top_red.obj-6d4bad9e790ae8742a18beb881352c12.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/red/building_tower_B_red_building_tower_B_top_red.obj"
+dest_files=["res://.godot/imported/building_tower_B_red_building_tower_B_top_red.obj-6d4bad9e790ae8742a18beb881352c12.mesh", "res://.godot/imported/building_tower_B_red_building_tower_B_top_red.obj-6d4bad9e790ae8742a18beb881352c12.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bugxxbccdkiu4"
+path="res://.godot/imported/shelves.obj-27cb7a90d9841643ec0415807c927d87.mesh"
+
+[deps]
+
+files=["res://.godot/imported/shelves.obj-27cb7a90d9841643ec0415807c927d87.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/shelves.obj"
+dest_files=["res://.godot/imported/shelves.obj-27cb7a90d9841643ec0415807c927d87.mesh", "res://.godot/imported/shelves.obj-27cb7a90d9841643ec0415807c927d87.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

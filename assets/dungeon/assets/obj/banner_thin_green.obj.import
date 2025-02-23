@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn0aj6q4o23yy"
+path="res://.godot/imported/banner_thin_green.obj-1202a7b801a2336b27f8193958cb627e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_thin_green.obj-1202a7b801a2336b27f8193958cb627e.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/banner_thin_green.obj"
+dest_files=["res://.godot/imported/banner_thin_green.obj-1202a7b801a2336b27f8193958cb627e.mesh", "res://.godot/imported/banner_thin_green.obj-1202a7b801a2336b27f8193958cb627e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

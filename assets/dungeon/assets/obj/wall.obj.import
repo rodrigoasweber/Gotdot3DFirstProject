@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvbd4d4xvfpwc"
+path="res://.godot/imported/wall.obj-eac092afb2bfec7c2fd95b8eb4af89fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall.obj-eac092afb2bfec7c2fd95b8eb4af89fb.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/wall.obj"
+dest_files=["res://.godot/imported/wall.obj-eac092afb2bfec7c2fd95b8eb4af89fb.mesh", "res://.godot/imported/wall.obj-eac092afb2bfec7c2fd95b8eb4af89fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

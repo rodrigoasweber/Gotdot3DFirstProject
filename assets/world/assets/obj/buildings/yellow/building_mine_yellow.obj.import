@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bulelv0y624vq"
+path="res://.godot/imported/building_mine_yellow.obj-0a899433525bde520d45adda963104ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_mine_yellow.obj-0a899433525bde520d45adda963104ee.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/yellow/building_mine_yellow.obj"
+dest_files=["res://.godot/imported/building_mine_yellow.obj-0a899433525bde520d45adda963104ee.mesh", "res://.godot/imported/building_mine_yellow.obj-0a899433525bde520d45adda963104ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

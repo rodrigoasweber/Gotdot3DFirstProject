@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7umdd3rrcm05"
+path="res://.godot/imported/building_tower_catapult_red_catapult_turret_red_catapult_arm_red.obj-b05bc5a54302edbfbfd4b25e65cf6fbb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_tower_catapult_red_catapult_turret_red_catapult_arm_red.obj-b05bc5a54302edbfbfd4b25e65cf6fbb.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/red/building_tower_catapult_red_catapult_turret_red_catapult_arm_red.obj"
+dest_files=["res://.godot/imported/building_tower_catapult_red_catapult_turret_red_catapult_arm_red.obj-b05bc5a54302edbfbfd4b25e65cf6fbb.mesh", "res://.godot/imported/building_tower_catapult_red_catapult_turret_red_catapult_arm_red.obj-b05bc5a54302edbfbfd4b25e65cf6fbb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

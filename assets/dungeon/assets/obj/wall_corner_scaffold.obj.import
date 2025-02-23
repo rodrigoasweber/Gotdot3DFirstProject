@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dp2us7y7nsaaa"
+path="res://.godot/imported/wall_corner_scaffold.obj-e2c8f6fd28c65598c7cb053ce4833f5e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_corner_scaffold.obj-e2c8f6fd28c65598c7cb053ce4833f5e.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/wall_corner_scaffold.obj"
+dest_files=["res://.godot/imported/wall_corner_scaffold.obj-e2c8f6fd28c65598c7cb053ce4833f5e.mesh", "res://.godot/imported/wall_corner_scaffold.obj-e2c8f6fd28c65598c7cb053ce4833f5e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://skfoxib2uv7g"
+path="res://.godot/imported/hex_river_crossing_A.obj-982d75caa08c7827cda790ee30020598.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hex_river_crossing_A.obj-982d75caa08c7827cda790ee30020598.mesh"]
+
+source_file="res://assets/world/assets/obj/tiles/rivers/hex_river_crossing_A.obj"
+dest_files=["res://.godot/imported/hex_river_crossing_A.obj-982d75caa08c7827cda790ee30020598.mesh", "res://.godot/imported/hex_river_crossing_A.obj-982d75caa08c7827cda790ee30020598.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

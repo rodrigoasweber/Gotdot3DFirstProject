@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c76xvuysw8a4d"
+path="res://.godot/imported/table_small_decorated_B.obj-c6a081b44dce14a7ca7381c52579cd87.mesh"
+
+[deps]
+
+files=["res://.godot/imported/table_small_decorated_B.obj-c6a081b44dce14a7ca7381c52579cd87.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/table_small_decorated_B.obj"
+dest_files=["res://.godot/imported/table_small_decorated_B.obj-c6a081b44dce14a7ca7381c52579cd87.mesh", "res://.godot/imported/table_small_decorated_B.obj-c6a081b44dce14a7ca7381c52579cd87.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

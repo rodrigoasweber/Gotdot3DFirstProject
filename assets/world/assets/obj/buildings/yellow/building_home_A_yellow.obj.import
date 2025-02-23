@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lmqqjpepyl5n"
+path="res://.godot/imported/building_home_A_yellow.obj-b66adf902961b9393ccc1c2a0baf2bca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_home_A_yellow.obj-b66adf902961b9393ccc1c2a0baf2bca.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/yellow/building_home_A_yellow.obj"
+dest_files=["res://.godot/imported/building_home_A_yellow.obj-b66adf902961b9393ccc1c2a0baf2bca.mesh", "res://.godot/imported/building_home_A_yellow.obj-b66adf902961b9393ccc1c2a0baf2bca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

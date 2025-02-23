@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnrlcmbjd7q83"
+path="res://.godot/imported/barrel_large_decorated.obj-676255a79cd5b5e9741e981adc16236f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barrel_large_decorated.obj-676255a79cd5b5e9741e981adc16236f.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/barrel_large_decorated.obj"
+dest_files=["res://.godot/imported/barrel_large_decorated.obj-676255a79cd5b5e9741e981adc16236f.mesh", "res://.godot/imported/barrel_large_decorated.obj-676255a79cd5b5e9741e981adc16236f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

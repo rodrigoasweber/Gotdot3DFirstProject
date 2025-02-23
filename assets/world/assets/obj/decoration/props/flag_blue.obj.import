@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dycclqllexlc"
+path="res://.godot/imported/flag_blue.obj-d764eb467418197aa64e697ecbdeacbe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flag_blue.obj-d764eb467418197aa64e697ecbdeacbe.mesh"]
+
+source_file="res://assets/world/assets/obj/decoration/props/flag_blue.obj"
+dest_files=["res://.godot/imported/flag_blue.obj-d764eb467418197aa64e697ecbdeacbe.mesh", "res://.godot/imported/flag_blue.obj-d764eb467418197aa64e697ecbdeacbe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

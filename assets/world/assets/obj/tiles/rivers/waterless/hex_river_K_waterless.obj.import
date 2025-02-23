@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://be2nd0bvw8xhd"
+path="res://.godot/imported/hex_river_K_waterless.obj-e811454fb98d294f738c2f9de337f19d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hex_river_K_waterless.obj-e811454fb98d294f738c2f9de337f19d.mesh"]
+
+source_file="res://assets/world/assets/obj/tiles/rivers/waterless/hex_river_K_waterless.obj"
+dest_files=["res://.godot/imported/hex_river_K_waterless.obj-e811454fb98d294f738c2f9de337f19d.mesh", "res://.godot/imported/hex_river_K_waterless.obj-e811454fb98d294f738c2f9de337f19d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

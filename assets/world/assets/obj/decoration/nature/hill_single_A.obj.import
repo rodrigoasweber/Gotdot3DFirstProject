@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://elm0ch4tcvdw"
+path="res://.godot/imported/hill_single_A.obj-5c94f4860ea6f057cabcfe5e277f8bee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hill_single_A.obj-5c94f4860ea6f057cabcfe5e277f8bee.mesh"]
+
+source_file="res://assets/world/assets/obj/decoration/nature/hill_single_A.obj"
+dest_files=["res://.godot/imported/hill_single_A.obj-5c94f4860ea6f057cabcfe5e277f8bee.mesh", "res://.godot/imported/hill_single_A.obj-5c94f4860ea6f057cabcfe5e277f8bee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

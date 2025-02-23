@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2218141skhk1"
+path="res://.godot/imported/Skeleton_Staff.obj-f555372598af288a092581778e539116.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Skeleton_Staff.obj-f555372598af288a092581778e539116.mesh"]
+
+source_file="res://assets/skeletons/assets/obj/Skeleton_Staff.obj"
+dest_files=["res://.godot/imported/Skeleton_Staff.obj-f555372598af288a092581778e539116.mesh", "res://.godot/imported/Skeleton_Staff.obj-f555372598af288a092581778e539116.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

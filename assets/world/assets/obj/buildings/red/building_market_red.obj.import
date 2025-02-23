@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dggi3skmbe18b"
+path="res://.godot/imported/building_market_red.obj-d74cc4314a0c38e52a75abdb1cb15bed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_market_red.obj-d74cc4314a0c38e52a75abdb1cb15bed.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/red/building_market_red.obj"
+dest_files=["res://.godot/imported/building_market_red.obj-d74cc4314a0c38e52a75abdb1cb15bed.mesh", "res://.godot/imported/building_market_red.obj-d74cc4314a0c38e52a75abdb1cb15bed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

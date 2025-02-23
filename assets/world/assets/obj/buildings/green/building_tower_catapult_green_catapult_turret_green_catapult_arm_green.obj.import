@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drwcs1jj4xtep"
+path="res://.godot/imported/building_tower_catapult_green_catapult_turret_green_catapult_arm_green.obj-0aba2c58a0d17e9498c359cb7dd33129.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_tower_catapult_green_catapult_turret_green_catapult_arm_green.obj-0aba2c58a0d17e9498c359cb7dd33129.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/green/building_tower_catapult_green_catapult_turret_green_catapult_arm_green.obj"
+dest_files=["res://.godot/imported/building_tower_catapult_green_catapult_turret_green_catapult_arm_green.obj-0aba2c58a0d17e9498c359cb7dd33129.mesh", "res://.godot/imported/building_tower_catapult_green_catapult_turret_green_catapult_arm_green.obj-0aba2c58a0d17e9498c359cb7dd33129.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

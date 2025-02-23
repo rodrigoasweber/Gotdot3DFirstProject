@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3545ytrtuu7w"
+path="res://.godot/imported/Skeleton_Shield_Large_A.obj-77833fd472ef7dc9b8060766df995415.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Skeleton_Shield_Large_A.obj-77833fd472ef7dc9b8060766df995415.mesh"]
+
+source_file="res://assets/skeletons/assets/obj/Skeleton_Shield_Large_A.obj"
+dest_files=["res://.godot/imported/Skeleton_Shield_Large_A.obj-77833fd472ef7dc9b8060766df995415.mesh", "res://.godot/imported/Skeleton_Shield_Large_A.obj-77833fd472ef7dc9b8060766df995415.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

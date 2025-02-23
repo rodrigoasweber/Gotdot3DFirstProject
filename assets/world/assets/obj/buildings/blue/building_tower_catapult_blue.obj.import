@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://baslr5befsgxt"
+path="res://.godot/imported/building_tower_catapult_blue.obj-1ab5d613e0a3c39d3a917bd4288b15c0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_tower_catapult_blue.obj-1ab5d613e0a3c39d3a917bd4288b15c0.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/blue/building_tower_catapult_blue.obj"
+dest_files=["res://.godot/imported/building_tower_catapult_blue.obj-1ab5d613e0a3c39d3a917bd4288b15c0.mesh", "res://.godot/imported/building_tower_catapult_blue.obj-1ab5d613e0a3c39d3a917bd4288b15c0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c6jbf5nfktxml"
+path="res://.godot/imported/wall_straight.obj-4870c0bc432c79cc4db35a781a2bd6b7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_straight.obj-4870c0bc432c79cc4db35a781a2bd6b7.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/neutral/wall_straight.obj"
+dest_files=["res://.godot/imported/wall_straight.obj-4870c0bc432c79cc4db35a781a2bd6b7.mesh", "res://.godot/imported/wall_straight.obj-4870c0bc432c79cc4db35a781a2bd6b7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7sumpbl1po8e"
+path="res://.godot/imported/keg_decorated.obj-f8c0c7732d49e68211c194339e70b169.mesh"
+
+[deps]
+
+files=["res://.godot/imported/keg_decorated.obj-f8c0c7732d49e68211c194339e70b169.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/keg_decorated.obj"
+dest_files=["res://.godot/imported/keg_decorated.obj-f8c0c7732d49e68211c194339e70b169.mesh", "res://.godot/imported/keg_decorated.obj-f8c0c7732d49e68211c194339e70b169.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

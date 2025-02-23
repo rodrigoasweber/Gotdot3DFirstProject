@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bs0cmog16yyt4"
+path="res://.godot/imported/hex_coast_B.obj-3250fe083ebd3113ab8377cabd6b2a4c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hex_coast_B.obj-3250fe083ebd3113ab8377cabd6b2a4c.mesh"]
+
+source_file="res://assets/world/assets/obj/tiles/coast/hex_coast_B.obj"
+dest_files=["res://.godot/imported/hex_coast_B.obj-3250fe083ebd3113ab8377cabd6b2a4c.mesh", "res://.godot/imported/hex_coast_B.obj-3250fe083ebd3113ab8377cabd6b2a4c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

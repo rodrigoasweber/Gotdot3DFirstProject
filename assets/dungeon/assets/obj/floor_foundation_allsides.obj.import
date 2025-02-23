@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://unrukaivnvc5"
+path="res://.godot/imported/floor_foundation_allsides.obj-1c9867117c4f4e9b654b07f5eee7e632.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_foundation_allsides.obj-1c9867117c4f4e9b654b07f5eee7e632.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/floor_foundation_allsides.obj"
+dest_files=["res://.godot/imported/floor_foundation_allsides.obj-1c9867117c4f4e9b654b07f5eee7e632.mesh", "res://.godot/imported/floor_foundation_allsides.obj-1c9867117c4f4e9b654b07f5eee7e632.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

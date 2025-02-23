@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drkpcg3evv5kc"
+path="res://.godot/imported/building_watermill_yellow_building_watermill_wheel_yellow.obj-07cc78d430a5e73525fd88efb19e0f0e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_watermill_yellow_building_watermill_wheel_yellow.obj-07cc78d430a5e73525fd88efb19e0f0e.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/yellow/building_watermill_yellow_building_watermill_wheel_yellow.obj"
+dest_files=["res://.godot/imported/building_watermill_yellow_building_watermill_wheel_yellow.obj-07cc78d430a5e73525fd88efb19e0f0e.mesh", "res://.godot/imported/building_watermill_yellow_building_watermill_wheel_yellow.obj-07cc78d430a5e73525fd88efb19e0f0e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

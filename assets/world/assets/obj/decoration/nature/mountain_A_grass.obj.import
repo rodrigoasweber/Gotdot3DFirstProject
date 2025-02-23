@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by7uub1pdkare"
+path="res://.godot/imported/mountain_A_grass.obj-bd644d12ad940bf56046f0975bedfa88.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mountain_A_grass.obj-bd644d12ad940bf56046f0975bedfa88.mesh"]
+
+source_file="res://assets/world/assets/obj/decoration/nature/mountain_A_grass.obj"
+dest_files=["res://.godot/imported/mountain_A_grass.obj-bd644d12ad940bf56046f0975bedfa88.mesh", "res://.godot/imported/mountain_A_grass.obj-bd644d12ad940bf56046f0975bedfa88.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

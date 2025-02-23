@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkv8rqh108nlf"
+path="res://.godot/imported/mountain_C_grass_trees.obj-5a4a97c4ec06285116c6f5b1e3bc618e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mountain_C_grass_trees.obj-5a4a97c4ec06285116c6f5b1e3bc618e.mesh"]
+
+source_file="res://assets/world/assets/obj/decoration/nature/mountain_C_grass_trees.obj"
+dest_files=["res://.godot/imported/mountain_C_grass_trees.obj-5a4a97c4ec06285116c6f5b1e3bc618e.mesh", "res://.godot/imported/mountain_C_grass_trees.obj-5a4a97c4ec06285116c6f5b1e3bc618e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

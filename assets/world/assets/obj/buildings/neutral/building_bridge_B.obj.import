@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://plfib2urqm4r"
+path="res://.godot/imported/building_bridge_B.obj-7d5585df23d56c474de1a9d9aa6991bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_bridge_B.obj-7d5585df23d56c474de1a9d9aa6991bf.mesh"]
+
+source_file="res://assets/world/assets/obj/buildings/neutral/building_bridge_B.obj"
+dest_files=["res://.godot/imported/building_bridge_B.obj-7d5585df23d56c474de1a9d9aa6991bf.mesh", "res://.godot/imported/building_bridge_B.obj-7d5585df23d56c474de1a9d9aa6991bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

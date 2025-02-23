@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fh4lptc2m1h2"
+path="res://.godot/imported/stairs_long_modular_left.obj-0cf40d6e84a97fd30876c58908d593ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairs_long_modular_left.obj-0cf40d6e84a97fd30876c58908d593ce.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/stairs_long_modular_left.obj"
+dest_files=["res://.godot/imported/stairs_long_modular_left.obj-0cf40d6e84a97fd30876c58908d593ce.mesh", "res://.godot/imported/stairs_long_modular_left.obj-0cf40d6e84a97fd30876c58908d593ce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

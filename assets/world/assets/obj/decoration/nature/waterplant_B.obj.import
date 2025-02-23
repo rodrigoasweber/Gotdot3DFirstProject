@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rnagse65wx01"
+path="res://.godot/imported/waterplant_B.obj-4d6be31e0be1ad907b219f565f37902a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/waterplant_B.obj-4d6be31e0be1ad907b219f565f37902a.mesh"]
+
+source_file="res://assets/world/assets/obj/decoration/nature/waterplant_B.obj"
+dest_files=["res://.godot/imported/waterplant_B.obj-4d6be31e0be1ad907b219f565f37902a.mesh", "res://.godot/imported/waterplant_B.obj-4d6be31e0be1ad907b219f565f37902a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

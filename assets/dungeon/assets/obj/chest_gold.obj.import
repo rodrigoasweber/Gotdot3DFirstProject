@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmickxxv5i2p7"
+path="res://.godot/imported/chest_gold.obj-f1a33e25a6418ef75fcd79edd05ea6ad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chest_gold.obj-f1a33e25a6418ef75fcd79edd05ea6ad.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/chest_gold.obj"
+dest_files=["res://.godot/imported/chest_gold.obj-f1a33e25a6418ef75fcd79edd05ea6ad.mesh", "res://.godot/imported/chest_gold.obj-f1a33e25a6418ef75fcd79edd05ea6ad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

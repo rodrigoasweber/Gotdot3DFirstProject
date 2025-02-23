@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bi6fvtuxbx0dr"
+path="res://.godot/imported/bottle_A_brown.obj-5f2c3dc13be5cbc35c2a9a6fe7d6004a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bottle_A_brown.obj-5f2c3dc13be5cbc35c2a9a6fe7d6004a.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/bottle_A_brown.obj"
+dest_files=["res://.godot/imported/bottle_A_brown.obj-5f2c3dc13be5cbc35c2a9a6fe7d6004a.mesh", "res://.godot/imported/bottle_A_brown.obj-5f2c3dc13be5cbc35c2a9a6fe7d6004a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

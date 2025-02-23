@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7agakbif0bhy"
+path="res://.godot/imported/key.obj-6d7d8a4abc5af6234f1674d25f30bf42.mesh"
+
+[deps]
+
+files=["res://.godot/imported/key.obj-6d7d8a4abc5af6234f1674d25f30bf42.mesh"]
+
+source_file="res://assets/dungeon/assets/obj/key.obj"
+dest_files=["res://.godot/imported/key.obj-6d7d8a4abc5af6234f1674d25f30bf42.mesh", "res://.godot/imported/key.obj-6d7d8a4abc5af6234f1674d25f30bf42.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
