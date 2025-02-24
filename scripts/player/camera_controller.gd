@@ -2,12 +2,12 @@ extends Node3D
 
 
 var camroot_horiz:float = 0
-var horiz_sensitivity:float = 0.1
-var horiz_acceleration:float = 10.0
+var horiz_sensitivity:float = 0.01
+var horiz_acceleration:float = 2.0
 
 var camroot_vert:float = 0
-var vert_sensitivity:float = 0.1
-var vert_acceleration:float = 10.0
+var vert_sensitivity:float = 0.01
+var vert_acceleration:float = 2.0
 @export var camroot_vert_max:int = 75
 @export var camroot_vert_min:int = -55
 
